@@ -10,3 +10,5 @@ It also allows you to perform statistical analysis between different datasets (i
 It is moderately customizable when run from the GUI, and the ability to create defaults allows you to pick the parameters you care about and look at them over and over again very quickly; great for optimization of your protocol or of your Cell Profiler analysis.  
 
 Working on building nice packaged distributions; in the meantime it requires python 2.7 with xlrd, xlwt, xlutils, easygui, matplotlib, statsmodels, PIL, and scipy.
+
+Blanket disclaimer- outside of one 10-session class, I have no formal training in programming.  I built all of this for personal use- I'm thrilled it's worked as well as it has and that it's becoming useful for others.  Therefore, expect it may be buggy and unpolished, and while I'll get to fixes as soon as I can, this is a tool and a side project for me so be reasonable in amount of time it takes to get things done.
