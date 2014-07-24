@@ -1,9 +1,0 @@
-('C:\\Users\\Beth Cimini\\Desktop\\CellProfilerStats\\dist\\RTPCR.exe',
- True,
- False,
- None,
- None,
- [],
- None,
- False,
- 1380932632L)
